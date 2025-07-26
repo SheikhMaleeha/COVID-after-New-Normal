@@ -2,8 +2,15 @@
 
 This repository explores survey-based insights on COVID-19 trends in Bangladesh, one year after the initial global transition to the "new normal." The analysis focuses on patterns in infection recurrence, vaccine distribution, medication use, and age-wise impact.
 
-![image](https://github.com/SheikhMaleeha/COVID-after-New-Normal/blob/main/Visualization%20Snippets/Medications%20taken.png)
-![image](https://github.com/SheikhMaleeha/COVID-after-New-Normal/blob/main/Visualization%20Snippets/covid%20recurrence.png)
+<!-- ![image](https://github.com/SheikhMaleeha/COVID-after-New-Normal/blob/main/Visualization%20Snippets/Medications%20taken.png)
+![image](https://github.com/SheikhMaleeha/COVID-after-New-Normal/blob/main/Visualization%20Snippets/covid%20recurrence.png) -->
+
+<p align="center">
+  <img src="Visualization Snippets/Medications taken.png" alt="Medication Usage" width="45%" />
+  &nbsp; &nbsp;
+  <img src="Visualization Snippets/covid recurrence.png" alt="Multiple COVID Cases" width="45%" />
+</p>
+
 
 ## 🧪 Overview
 
